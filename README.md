@@ -20,6 +20,7 @@ The main purpose of the Event Registration System is to:
 6. Improve data integrity by using foreign keys and cascading rules.
 
 🗂️ DATABASE PURPOSE (Per Table)
+
 👤 Users Table
 
 Stores administrator and staff login credentials
